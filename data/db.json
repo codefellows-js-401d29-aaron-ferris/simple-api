@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "name": "libros",
+      "display_name": "books",
+      "description": "You Read them",
+      "id": 1
+    },
+    {
+      "name": "book",
+      "display_name": "libros",
+      "description": "you read them",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "libros",
+      "name": "name of the wind",
+      "display_name": "Kingkiller Chronicles: Name of the wind",
+      "description": "By Patrick Rothfuss. Really freaking good!"
+    }
+  ]
+}
