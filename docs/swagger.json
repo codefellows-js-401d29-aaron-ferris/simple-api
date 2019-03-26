@@ -31,8 +31,8 @@
         "description": "Create a Category",
         "parameters": [
           {"name": "id",
-           "in": "body",
-          }
+           "in": "body"
+          },
           {
             "name": "name",
             "in": "query",
@@ -99,7 +99,7 @@
       "needString":{
         "type": "string",
         "required": true
-      }
+      },
       "postCat": {
         "type": "object",
         "example": [
